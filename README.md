@@ -75,3 +75,7 @@ DevSnippet is a full-stack web application designed for developers to manage, st
 ## License
 
 This project is licensed under the MIT License.
+
+<p align="center">
+  <img src="Screenshot_11-5-2026_1929_localhost.jpeg" width="300">
+</p>
