@@ -77,37 +77,41 @@ DevSnippet is a full-stack web application designed for developers to manage, st
 This project is licensed under the MIT License.
 
 
-
+Dashboard Screenshots:
 <p align="center">
   <img src="Screenshot_11-5-2026_19033_localhost.jpeg" width="300">
 </p>
 
+Community Snippets Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19047_localhost.jpeg" width="300">
 </p>
 
+Favorites Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19126_localhost.jpeg" width="300">
 </p>
 
+Edit Snippet Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19148_localhost.jpeg" width="300">
 </p>
 
+Create Snippet Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19531_localhost.jpeg" width="300">
 </p>
-
+Edit Profile Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_1929_localhost.jpeg" width="300">
 </p>
-
+Profile Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19618_localhost.jpeg" width="300">
 </p>
 
 
-
+Edit Profile Page:
 <p align="center">
   <img src="Screenshot_11-5-2026_19639_localhost.jpeg" width="300">
 </p>
